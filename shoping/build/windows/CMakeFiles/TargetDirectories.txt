@@ -1,0 +1,10 @@
+D:/Code/Flutter/shoping/build/windows/CMakeFiles/INSTALL.dir
+D:/Code/Flutter/shoping/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/Code/Flutter/shoping/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/Code/Flutter/shoping/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/Code/Flutter/shoping/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/Code/Flutter/shoping/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/Code/Flutter/shoping/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/Code/Flutter/shoping/build/windows/runner/CMakeFiles/shoping.dir
+D:/Code/Flutter/shoping/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/Code/Flutter/shoping/build/windows/runner/CMakeFiles/ALL_BUILD.dir
